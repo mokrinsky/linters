@@ -1,0 +1,4 @@
+formatter:
+  type: basic
+  max_line_length: 1000 # For some reason, documentation says 0 means infinite, but apparently it doesn't work
+  retain_line_breaks: true
